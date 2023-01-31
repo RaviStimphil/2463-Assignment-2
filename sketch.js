@@ -26,7 +26,7 @@ function draw() {
   paintSquare(0,180,0,0,0);
  
   fill(paintColor[0],paintColor[1],paintColor[2]);
-  rect(u,200,40);
+  
 
   
   
